@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Intervalle/Intervalle.vcxproj" Id="88d4049f-d0c0-4895-a9d0-a8cbce77892c" />
+</Solution>
